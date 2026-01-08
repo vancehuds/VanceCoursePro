@@ -120,3 +120,6 @@ python main_gui.py
 ## 📄 许可证
 
 [MIT License](LICENSE)
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/vancehuds/VanceCoursePro.svg?variant=adaptive)](https://starchart.cc/vancehuds/VanceCoursePro)
