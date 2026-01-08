@@ -1,0 +1,12 @@
+{
+    "base_url": "http://your-jwglxt-server.edu.cn/jwglxt",
+    "accounts": [
+        {
+            "id": "example-uuid",
+            "name": "账号名称",
+            "username": "学号",
+            "password": "密码"
+        }
+    ],
+    "default_account": "example-uuid"
+}
