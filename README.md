@@ -31,8 +31,8 @@
 1. **克隆仓库**
 
 ```bash
-git clone https://github.com/your-username/course-selection-helper.git
-cd course-selection-helper
+git clone https://github.com/vancehuds/VanceCoursePro.git
+cd VanceCoursePro
 ```
 
 2. **创建虚拟环境（推荐）**
